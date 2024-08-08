@@ -19,18 +19,32 @@
 
 <img src="C:\Users\andre\OneDrive\Documentos\Estudos\andredosreis\image\lineBar.png" width="100%" height="8px"/>
 
+## &nbsp;My Stack
+<img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,java,py,angular,aws,git,github&theme=dark" />
 
-<!--
-**andredosreis/andredosreis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on I am a FullStack Developer and Graduate in Enginier Softwere
+- 🌱 I’m currently learning Data Base with Power BI and IA
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is JavaScript and Python, Angular.<br />
+- 💬 About me: Always learning new things about technology, not only in the tech field but also in emotional intelligence, because we often need to work with people or in groups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Contact Me</h3>
+<div align="left">
+<p>
+<a href="mailto:andredosreis@gmail.com">
+<img src="https://img.shields.io/badge/-email-020114?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=6ED2B6&amp;color:FFF" alt="E-mail">
+</a>
+<a href="https://www.linkedin.com/in/andredosreispro"><img src="https://img.shields.io/badge/-LinkedIn-020114?style=for-the-badge&amp;logo=linkedin&amp;logoColor=6ED2B6&amp;color:FFF" alt="LinkedIn"></a>
+
+</div>
+
+<details align="left">
+  <summary>Credits</summary> 
+  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
+  <br>
+   - GitHub Streak by <a href="https://github.com/DenverCoder1/github-readme-streak-stats">DenverCoder1</a>
+  <br>
+  - Developer vector created by <a href="https://www.freepik.com/vectors/developer">storyset - www.freepik.com</a> (edited by author)
+</details>
+
+
