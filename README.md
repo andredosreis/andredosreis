@@ -27,7 +27,8 @@
 
 ## &nbsp;Tech Stack
 
-<img src="https://skillicons.dev/icons?i=vscode,html,css,ts,js,react,nextjs,nodejs,py,git,github,aws&theme=dark" />
+<img src=<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,py,git,github,aws,html,css&theme=dark" />
+ />
 
 - **Languages:** TypeScript, JavaScript, Python  
 - **Frontend:** React, Next.js  
