@@ -6,7 +6,8 @@
 
 <div align="center">  
   
-<hr style="height:2px;border-width:0;background-color:#30363d">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:80F7D4&height=5&section=footer"/>
+
 
   
 </div>
